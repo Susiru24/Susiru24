@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fhacker-gif-32%2F&psig=AOvVaw2xeN2eckz6EcqZXCAhkCAT&ust=1709727572969000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjfoYGO3YQDFQAAAAAdAAAAABAR"/> 
 <h1 align="center">Hi 👋, I'm Susiru Sampath</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
