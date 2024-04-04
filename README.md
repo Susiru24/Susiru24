@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha200219&label=Profile%20views&color=0e75b6&style=flat" alt="tharusha200219" /> </p>
+
 <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif"/> 
 <h1 align="center">Hi 👋, I'm Susiru Sampath</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
